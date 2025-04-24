@@ -206,3 +206,13 @@ box-shadow: rgba(88, 88, 88, 0.4) 0px 2px 4px, rgba(109, 109, 109, 0.3) 0px 7px 
   background-color: gray;
   border-radius: 20px;
 }
+
+
+#typed {
+  font-size: 56px; 
+  font-weight: bold; 
+}
+
+.typed-cursor {
+  font-size: 56px; 
+}
